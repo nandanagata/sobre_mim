@@ -168,6 +168,10 @@ header li a:hover {
     margin: 0 auto;
 }
 
+img{
+    object-fit: cover;
+}
+
 .momentos-card{
     min-height: 350px;
     min-width: 500px;
